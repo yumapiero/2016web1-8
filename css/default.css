@@ -14,5 +14,5 @@ body{
       }
       
   .breadcrumbs li:first-child:before {
-      content;""; /*最初だけcontentを消す*/
+      content:""; /*最初だけcontentを消す*/
       }
