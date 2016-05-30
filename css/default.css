@@ -21,7 +21,7 @@ body{
     overflow: hidden;
   }
   
-  #gnav li{
+  #gnav li {
     float: left;　/*固定幅にするためにfloatで指定*/
     width: 156px;
     border-right: white 1px solid; /*右に線を引く*/
