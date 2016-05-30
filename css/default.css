@@ -5,14 +5,14 @@ body{
   }
   
   .breadcrumbs li {
-      display: inline; //liを横並び
-      list-style-type: none; //点を消す
+      display: inline; /*liを横並び*/
+      list-style-type: none; /*点を消す*/
       }
       
   .breadcrumbs li:before {
-      content: " > "; //liの前に記号追加
+      content: " > "; /*liの前に記号追加*/
       }
       
   .breadcrumbs li:first-child:before {
-      content;""; //最初だけcontentを消す
+      content;""; /*最初だけcontentを消す*/
       }
